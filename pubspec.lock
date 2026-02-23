@@ -1436,6 +1436,7 @@ packages:
       url: "https://mirrors.tuna.tsinghua.edu.cn/dart-pub/"
     source: hosted
     version: "0.7.9"
+    version: "0.7.9"
   tray_manager:
     dependency: "direct main"
     description:
