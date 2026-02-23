@@ -1436,7 +1436,6 @@ packages:
       url: "https://mirrors.tuna.tsinghua.edu.cn/dart-pub/"
     source: hosted
     version: "0.7.9"
-
   tray_manager:
     dependency: "direct main"
     description:
@@ -1744,4 +1743,4 @@ packages:
     version: "2.1.0"
 sdks:
   dart: ">=3.10.3 <4.0.0"
-  flutter: ">=3.41.0"
+  flutter: ">=3.41.2"
